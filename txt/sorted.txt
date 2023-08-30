@@ -1,0 +1,5 @@
+  12 Success
+   3 Forbidden
+   2 The server did not respond
+   2 Page not found
+100 fail
