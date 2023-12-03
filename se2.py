@@ -35,3 +35,5 @@ def rows_contain(lst, target):
 
 def columns_contain(lst, target):
     return rows_contain(transpose(lst), target)
+
+print(rows_and_columns_contain([1], 1))
