@@ -1,1 +1,13 @@
 ![image](https://github.com/Audacity88/shell/assets/5046102/299da88b-ec05-4ab9-bd82-5d3027186737)
+![image](https://github.com/Audacity88/shell/assets/5046102/2726008c-19d8-4e36-94a7-628d09cb574c)
+![image](https://github.com/Audacity88/shell/assets/5046102/7ed92436-3844-45e6-ae6c-6ce60a214354)
+![image](https://github.com/Audacity88/shell/assets/5046102/57ac7899-86c3-49b8-beee-c5f7a022eb81)
+![image](https://github.com/Audacity88/shell/assets/5046102/151d5f1f-f7a2-4a8d-933c-4543992fc8c0)
+![image](https://github.com/Audacity88/shell/assets/5046102/20009ebf-2f96-43c1-9950-6d6adf821b25)
+![image](https://github.com/Audacity88/shell/assets/5046102/044073d9-821d-4d22-b671-ae594620c679)
+![image](https://github.com/Audacity88/shell/assets/5046102/ae477640-fd65-492f-a4cd-5d3e298fa8e1)
+![image](https://github.com/Audacity88/shell/assets/5046102/9c15e197-2d91-434a-8f93-7d063863a131)
+![image](https://github.com/Audacity88/shell/assets/5046102/03cca009-483e-4150-8b5f-994976d0f960)
+![image](https://github.com/Audacity88/shell/assets/5046102/f74607a0-ebcf-48f8-831b-30355b8987b0)
+![image](https://github.com/Audacity88/shell/assets/5046102/f735b868-55f5-42d1-a5ba-929a5174a8cf)
+
